@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import Navbar from '@/components/navbar';
+//import Navbar from '@/components/navbar';
 import toast, { Toaster } from 'react-hot-toast';
 
 export default function Home() {
@@ -86,7 +86,7 @@ export default function Home() {
   return (
     <div className="bg-gray-200 min-h-screen">
       {/* Encabezado */}
-      <Navbar />
+      {/*<Navbar />*/}
       <header className="bg-black w-full h-50 relative overflow-hidden">
         <img 
           src="/WhatsApp Image 2024-03-23 at 5.33.24 PM.jpeg"                       
