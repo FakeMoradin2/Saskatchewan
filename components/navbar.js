@@ -41,7 +41,7 @@ const Navbar = () => {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/near-saskatchewan-drive" className="cursor-pointer block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 dark:text-white dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white">
+                                <Link href="/near" className="cursor-pointer block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 dark:text-white dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white">
                                     <p>What&apos;s Near Saskatchewan Drive?</p>
                                 </Link>
                             </li>
