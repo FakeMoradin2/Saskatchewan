@@ -51,11 +51,11 @@ const PointsOfInterest = () => {
                     <div>
                         <div>
                             <h3 className="text-xl font-semibold mb-4 text-gray-900">West Edmonton Mall</h3>
-                            <p className="text-gray-900">More than just a shopping center, it's a monumental attraction in its own right. It is one of the largest malls in the world, equipped with an indoor water park, an amusement park, ice rinks, an aquarium, and over 800 shops and services. It's a place that promises entertainment for all ages.</p>
+                            <p className="text-gray-900">More than just a shopping center, it&apos;s a monumental attraction in its own right. It is one of the largest malls in the world, equipped with an indoor water park, an amusement park, ice rinks, an aquarium, and over 800 shops and services. It&apos;s a place that promises entertainment for all ages.</p>
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold mb-4 text-gray-900">North Saskatchewan River Valley</h3>
-                            <p className="text-gray-900">This extensive system of urban parks offers a network of hiking and biking trails, picnic areas, and the opportunity to see wildlife in its natural habitat. It's ideal for those looking for a nature getaway without leaving the city.</p>
+                            <p className="text-gray-900">This extensive system of urban parks offers a network of hiking and biking trails, picnic areas, and the opportunity to see wildlife in its natural habitat. It&apos;s ideal for those looking for a nature getaway without leaving the city.</p>
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold mb-4 text-gray-900">Legislature Building</h3>
@@ -63,7 +63,7 @@ const PointsOfInterest = () => {
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold mb-4 text-gray-900">Art Gallery of Alberta</h3>
-                            <p className="text-gray-900">This contemporary art gallery showcases a diverse collection of works, including paintings, sculptures, and multimedia installations. It's a hub for cultural enthusiasts and art lovers.</p>
+                            <p className="text-gray-900">This contemporary art gallery showcases a diverse collection of works, including paintings, sculptures, and multimedia installations. It&apos;s a hub for cultural enthusiasts and art lovers.</p>
                         </div>
                     </div>
                     <div>
@@ -81,7 +81,7 @@ const PointsOfInterest = () => {
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold mb-4 text-gray-900">Edmonton International Fringe Festival</h3>
-                            <p className="text-gray-900">Experience the world's second-largest fringe festival in Edmonton. The Edmonton International Fringe Festival features hundreds of performances, including theater, dance, comedy, and more, from artists around the globe.</p>
+                            <p className="text-gray-900">Experience the world&apos;s second-largest fringe festival in Edmonton. The Edmonton International Fringe Festival features hundreds of performances, including theater, dance, comedy, and more, from artists around the globe.</p>
                         </div>
                     </div>
                 </div>
